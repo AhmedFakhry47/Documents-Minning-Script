@@ -1,0 +1,1 @@
+R script used to automate the process of extracting useful information from several text sources and combine what it found in these sources in a single pdf file which makes it easier for the u
